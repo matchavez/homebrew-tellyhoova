@@ -1,6 +1,6 @@
 cask "tellyhoova" do
-  version "1.0.2"
-  sha256 "f0ba34558ad360fd24f5ddb275ccb188637f0b3d791c4862dcfc378559af2c4b"
+  version "1.0.3"
+  sha256 "a9404741775c986774bc6e8ba0e22dffa1eeaaa900988931cf2f85a98c92c438"
 
   url "https://github.com/matchavez/tellyhoova/releases/download/v#{version}/Tellyhoova-#{version}.dmg"
   name "Tellyhoova"
