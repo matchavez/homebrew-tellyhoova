@@ -1,6 +1,6 @@
 # memory.md — matchavez/homebrew-tellyhoova
 
-Self-context for Claude. No README.md — standard Homebrew tap, one file: `Casks/tellyhoova.rb`. Last refreshed: 2026-07-11.
+Self-context for Claude. README.md now exists (added 2026-07-11) — standard Homebrew tap, one file: `Casks/tellyhoova.rb`. Last refreshed: 2026-07-11.
 
 ## What this repo is
 Homebrew tap serving `brew tap matchavez/tellyhoova && brew install --cask tellyhoova`.
