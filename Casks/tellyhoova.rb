@@ -7,7 +7,7 @@ cask "tellyhoova" do
   desc "macOS yt-dlp frontend for downloading videos and audio"
   homepage "https://github.com/matchavez/tellyhoova"
 
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
 
   app "Tellyhoova.app"
 
